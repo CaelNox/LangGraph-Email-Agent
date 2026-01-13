@@ -1,0 +1,7 @@
+langgraph
+langchain
+langchain-huggingface
+langsmith
+python-dotenv
+pydantic
+typing_extensions
